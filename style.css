@@ -17,10 +17,10 @@ body {
 }
 
 main {
-    width: 375px;
+    width: 275px;
     border-radius: 20px 0px 0px 0px;
     background-color: #F4F4F4;
-    margin: 0 auto 40px;
+    margin: 0 auto 20px;
     /*  padding: 44px; aplica para os 4 lados
     padding: 44px 24px; /* 1 cima e baixo e 2 dos lados 
     padding: 44px 24px 23px; /* 1 cima 2 lados 3 baixo
@@ -38,9 +38,9 @@ select, input {
     background: rgb(63, 1, 63);
     border: 1px solid #BBBBBB;
     border-radius: 4px;
-    height: 48px;
+    height: 30px;
     width: 100%;
-    margin-bottom: 24px;
+    margin-bottom: 14px;
     appearance: none;
     padding-left: 18px;
     font-weight: 700;
@@ -74,7 +74,7 @@ button:active {
 section {
     border: 1px solid #772FD3;
     border-radius: 20px;
-    margin-top: 36px;
+    margin-top: 16px;
     padding: 12px;
     display: flex;
     flex-direction: column;
